@@ -2,6 +2,11 @@
 
 O melhor site para saber tudo sobre o universo cinematográfoco. Novidades sobre filmes e séries, comentários técnicos e indicações do que assistir (E claro, tambem recomendamos as obras com os melhores Plot Twists).
 
+## Vjea nosso site.
+
+![image](https://github.com/EndricLopes/angular-blog/assets/142428267/86c53a1a-c1a4-4051-af70-b70187ddb39b)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
