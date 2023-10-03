@@ -1,6 +1,6 @@
-# AngularBlog
+# BLOG TWIST
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+O melhor site para saber tudo sobre o universo cinematográfoco. Novidades sobre filmes e séries, comentários técnicos e indicações do que assistir (E claro, tambem recomendamos as obras com os melhores Plot Twists).
 
 ## Development server
 
